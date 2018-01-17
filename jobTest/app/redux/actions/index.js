@@ -1,0 +1,1 @@
+export function setPoints(Points) { return { type: 'SET_POINTS', Points }; }

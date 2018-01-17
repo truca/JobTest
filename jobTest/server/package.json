@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ignacio Ureta",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.14.11"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  }
+}

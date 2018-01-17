@@ -1,0 +1,27 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/samples": "2.1.1",
+    "expo": "^24.0.0",
+    "native-base": "^2.3.5",
+    "ramda": "^0.25.0",
+    "react": "16.0.0",
+    "react-native": "^0.51.0",
+    "react-native-map-clustering": "^1.2.8",
+    "react-native-maps": "^0.19.0",
+    "react-native-maps-super-cluster": "https://github.com/truca/react-native-maps-super-cluster",
+    "react-navigation": "^1.0.0-beta.21",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "jest-expo": "^24.0.0"
+  }
+}
