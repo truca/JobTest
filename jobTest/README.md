@@ -1,8 +1,8 @@
-#Job Interview
+# Job Interview
 
 App and Server for Job Interview
 
-##Requirements
+## Requirements
 
 Aside from node and npm/yarn, you will need
 
@@ -10,9 +10,9 @@ Aside from node and npm/yarn, you will need
 - ngrok (to use the server locally)
 - Expo App in a phone
 
-##Instructions
+## Instructions
 
-###Server
+### Server
 
 ````
 cd server
@@ -32,7 +32,7 @@ that will give you two forwarding URL's, copy the http one in the file (instead 
 app/constants/Server
 ````
 
-###App
+### App
 
 ````
 cd ../app
